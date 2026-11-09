@@ -117,8 +117,5 @@ Open your browser and visit:
 - Improve form validation.
 - Deploy the website online.
 
-## Author
 
-**Your Name**
 
-GitHub: YOUR_GITHUB_PROFILE_LINK
